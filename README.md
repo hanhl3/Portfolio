@@ -7,7 +7,7 @@ This site showcases my skills, projects, experience, and contact information as 
 
 ## 📸 Live Demo
 
-🔗 [View Website](https://your-portfolio-link.com)
+🔗 [View Website](https://portfolio-lac-eight-60.vercel.app/)
 
 ---
 
@@ -15,9 +15,7 @@ This site showcases my skills, projects, experience, and contact information as 
 
 - **HTML5**, **CSS3**, **JavaScript**
 - **React.js** (or plain HTML/JS if applicable)
-- **Tailwind CSS** / Bootstrap (or custom CSS)
-- **EmailJS** / Formspree (for contact form)
-- **GitHub Pages** / Vercel / Netlify (for deployment)
+- **GitHub Pages** / Vercel 
 
 ---
 
